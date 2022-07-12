@@ -1,4 +1,0 @@
-[build]
-    base = "Deploy-a-Netlify-curso-Webpack"
-    publish = "dist"
-    command "npm run build"
