@@ -39,7 +39,6 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            inject: true,
             templete: './public/index.html',
             filename: './index.html'
         }),
